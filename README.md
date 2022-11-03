@@ -1,6 +1,6 @@
 # Twitter Data Pipeline using Airflow
 
-In this project, we are testing [Airflow](https://github.com/apache/airflow/) to programmatically author, schedule, and monitor workflows. The goal is to create an End-To-End Data Engineering application by extracting data using Twitter API and save them.
+In this project, we are testing [Airflow](https://github.com/apache/airflow/) which allows to programmatically author, schedule, and monitor workflows. The goal is to create an End-To-End Data Engineering application by extracting data using Twitter API and save it.
 
 
 
